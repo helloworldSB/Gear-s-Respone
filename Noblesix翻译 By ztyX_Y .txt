@@ -1,0 +1,177 @@
+版本：HyperLethal Noblesix 1.1.0 pre-6 其他版本应该也八九不离十
+
+Player类 玩家类
+AntiForceLook 啥玩意不知道 拒绝力看？
+AutoArmour 自动穿盔甲
+AutoEat自动吃东西
+Blink瞬移 打水晶时有用
+EndTeleport 结束TP？没看明白
+EntityTools 实体工具？
+FastBreak 快速破坏 用钻石工具的时候有明显的区别
+Fastplace 快速放置（右键连点器）
+Freecam 灵魂出窍
+HoleBlink瞬移到黑曜石洞里
+LagNotifier 延迟通知 有点像WWE的 server lag XXX second
+LiquidInteract水上放方块
+NoBreakAnimation 无间断动画？
+NoentityTrace 不会攻击到实体
+Nofall 无摔落伤害
+Noswing 无破坏动画（就是破坏方块的时候手不是会动吗，开了这个在别人眼里就不会动
+PacketCancel 清除发包 没明白
+PitchLock 视角锁定
+PortalGodMode 传送门无敌 移动只能靠紫颂果或珍珠
+Scaffold 自动搭路
+Timer 变速齿轮
+TPSSync TPS同步？
+XCarry 就是你的背包的四格合成栏里可以存放东西，别跟Xray搞混了
+YawLock 视角锁定 跟PitchLock差不多
+
+GUI类
+CombatInfo 战斗信息
+CustomRender 不知道啥用
+SpartanHUD 不知道啥用
+InfoOverlay 不知道啥用
+InventoryViewer 背包显示
+Theme 不知道啥用
+Watermark 水印（就是左上角的那个玩意）
+
+Render 渲染类
+AntiFog 清除雾
+AntiWeather 取消天气
+ArmourHUD 盔甲显示在九格物品栏上
+ArmourHide 甲皮？
+BedESP 床透视
+BlockHighlight 指着的方块高亮
+BoxESP 盒子透视
+FullBright 夜视
+Chams 单透视，把人物实体显示在最上层
+ChunkFinder 寻找新区快
+CleanGUI 清除gui？
+ESP 透视 不多解释
+ExtraTab 额外标签？
+EyeFiner 敌人视角显示
+HoleESP 黑曜石坑透视
+InvisibleBlockESP 看不见方块透视？？啥玩意
+MobOwner 怪物啥啥的
+NameTags 名字标签 不多解释
+NoHurtCam受伤窗口不抖动
+NoRender 可以关掉一些optifine里关不掉的东西
+RusherNameTags 开了我就崩
+Search 方块搜索
+ShulkerPreview 潜影盒啥啥的 没用过
+StorageESP 强壮透视？
+TabFriends Tab显示好友
+Tracers 把你的指针和敌人用一条线连上  月老牵红线（大雾
+Trajectories 投射物轨迹
+Xray X光透视
+Zoom 类似optifine的C键放大
+
+Movement 移动类
+AirJump 空气跳 类似连跳
+AntiHunger 拒绝饥饿 大部分服务器没用
+AntiLevitation 反悬浮？
+AutoJump 自动跳跃
+AutoWalk 挂机自动走路
+ElytraBot 鞘翅机器人？
+ElytraFlight 鞘翅飞行
+Elytra+ 鞘翅平飞
+ElytraReplace 自动穿鞘翅
+EntitySpeed 实体加速
+Fastfall 快速降落
+Flight 飞
+GMfly 飞
+Glide 还是飞
+GuiMove 背包行走
+IceSpeed 冰上加速
+Jesus 轻功水上漂（雾
+NoSlowDown 不减速
+NobleFlight 又是飞
+PacketFly 数据包飞 自杀飞 在一些服务器会提示发包过快
+SafeWalk 安全行走
+SeppukuFly Seppuku飞（别问Seppuku是啥，是以前能tp的挂）
+Sprint 强制疾跑
+Step 自动上台阶
+TimerSpeed 差不多是变速齿轮
+Velocity 反击退
+
+Extension 拓展类
+HyperLethalAura Lethal自动水晶 建议好好调 调好了贼jb强
+
+Misc 杂项
+AntiAFK 防踢
+AutoFish 自动吃鱼（自动钓鱼？
+AutoReconnect 自动重连
+AutoSpawner 自动重生
+AutoTool 自动切换对应的工具
+BeaconSelector 信标选择器？
+BlockData 方块数据（？
+BookCrash 自动写书？没用过
+BossStack boss血条
+CameraClip 视角不会被方块遮挡
+ColourSign 彩标？
+ConsoleSpam 垃圾邮件发包？
+DiscordSettings discord登录？
+FakeGamemode 制造创造
+FakePlayer 造个人（雾
+FakeVanillaClient 制作香草端？
+ModClickFriends 中键加好友
+NosoundLag 无声延迟？
+PathFind 找新区快？
+RunConfig 跑配置文件（？
+SkinFlicker不显示双层皮肤
+StashFinder 基地寻找器 不解释
+TelePort TP 类似Seppuku的TP
+
+Combat 战斗类
+AimBot 不会还有人在小游戏服务器开纪吧 不会吧不会吧
+Anti32kTotem 双图腾
+AntiChainPop 反啥玩意？
+AntiDeathScreen反死亡屏风？
+AntiFriendhit 不打队友
+Aura 杀妈光环 可以边吃苹果边打
+AutoOffhandGap自动副手苹果
+AutoLog ezzzzz log
+AutoMend 汽车修理？ 应该是扔自动经验瓶修装备
+AutoReplenish 自动补充
+AutoTotem 自动图腾
+AutoTrap 自动陷阱
+AutoWeb 自动蜘蛛网缠人
+BreakWarning 挖掘警告 就是别人挖你方块的时候告诉你
+Criticals 刀刀暴击
+EasyCrystalAura EZ水晶
+FastBow 快弓
+FasuUse 快速使用
+HoleFiller 填坑
+KamiCA Kami水晶光环
+OffhandCrystal 副手水晶
+OffhandGap 副手苹果
+SuperTotem 超级图腾
+SuperTotem2 超级图腾2
+Surround 黑曜石环
+TotemPopCounter 图腾爆提示
+VisualRange 目视范围？
+
+Chat 聊天类
+Annoyer 刷屏 告诉人家你在干啥
+AntiSpam 拒绝生成？
+AutoGG 自动GG
+AutoReply 自动回放
+BetterSuffix 更好的后缀？
+ChatEncryption 聊天加密
+ChatFilter 聊天过滤
+ChatTimestamp 显示聊天时间
+CustomChat后缀
+DiscordNotifs 不知道啥意思反正没有用就完了
+FancyChat 花式聊天
+FormatChat 格式聊天
+NobleSuffix noble后缀
+PortalChat 传送门聊天 应该就是防卡地狱门
+Spammer 刷屏
+
+
+
+芜湖
+弄完了
+上一版：Wurst旧版翻译
+作者：ztyX_Y
+QQ：124390919
