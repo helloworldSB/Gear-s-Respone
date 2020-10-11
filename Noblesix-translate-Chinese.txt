@@ -29,10 +29,10 @@ YawLock 视角锁定 跟PitchLock差不多
 GUI类
 CombatInfo 战斗信息
 CustomRender 自定义视角
-SpartanHUD 不知道啥用
+SpartanHUD 斯巴达式的HUD
 InfoOverlay 信息覆盖
 InventoryViewer 背包显示
-Theme 不知道啥用
+Theme 主题
 Watermark 水印（就是左上角的那个玩意）
 
 Render 渲染类
