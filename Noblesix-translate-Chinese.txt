@@ -28,9 +28,9 @@ YawLock 视角锁定 跟PitchLock差不多
 
 GUI类
 CombatInfo 战斗信息
-CustomRender 不知道啥用
+CustomRender 自定义视角
 SpartanHUD 不知道啥用
-InfoOverlay 不知道啥用
+InfoOverlay 信息覆盖
 InventoryViewer 背包显示
 Theme 不知道啥用
 Watermark 水印（就是左上角的那个玩意）
@@ -46,7 +46,7 @@ BoxESP 盒子透视
 FullBright 夜视
 Chams 单透视，把人物实体显示在最上层
 ChunkFinder 寻找新区快
-CleanGUI 清除gui？
+CleanGUI 清除GUI（类似关闭HUD）
 ESP 透视 不多解释
 ExtraTab 额外标签？
 EyeFiner 敌人视角显示
@@ -69,10 +69,10 @@ Zoom 类似optifine的C键放大
 Movement 移动类
 AirJump 空气跳 类似连跳
 AntiHunger 拒绝饥饿 大部分服务器没用
-AntiLevitation 反悬浮？
+AntiLevitation 防止悬空
 AutoJump 自动跳跃
 AutoWalk 挂机自动走路
-ElytraBot 鞘翅机器人？
+ElytraBot 饶鞘翅假人
 ElytraFlight 鞘翅飞行
 Elytra+ 鞘翅平飞
 ElytraReplace 自动穿鞘翅
@@ -99,7 +99,7 @@ HyperLethalAura Lethal自动水晶 建议好好调 调好了贼jb强
 
 Misc 杂项
 AntiAFK 防踢
-AutoFish 自动吃鱼（自动钓鱼？
+AutoFish 自动钓鱼
 AutoReconnect 自动重连
 AutoSpawner 自动重生
 AutoTool 自动切换对应的工具
@@ -108,29 +108,29 @@ BlockData 方块数据（？
 BookCrash 自动写书？没用过
 BossStack boss血条
 CameraClip 视角不会被方块遮挡
-ColourSign 彩标？
-ConsoleSpam 垃圾邮件发包？
-DiscordSettings discord登录？
+ColourSign 彩色登录（？
+ConsoleSpam 控制台刷屏（就是服务器那里疯狂刷屏
+DiscordSettings discord设置（？
 FakeGamemode 制造创造
-FakePlayer 造个人（雾
-FakeVanillaClient 制作香草端？
+FakePlayer 制造假人，通常用于欺骗服务器
+FakeVanillaClient 制造原版端（用于欺骗服务器，让服务器认为这是原版端
 ModClickFriends 中键加好友
 NosoundLag 无声延迟？
-PathFind 找新区快？
-RunConfig 跑配置文件（？
+PathFind 寻找新区块（类似某些G的ChuckFind
+RunConfig 加载配置文件
 SkinFlicker不显示双层皮肤
 StashFinder 基地寻找器 不解释
 TelePort TP 类似Seppuku的TP
 
 Combat 战斗类
-AimBot 不会还有人在小游戏服务器开纪吧 不会吧不会吧
+AimBot 反假人（不会还有人在小游戏服务器开纪吧 不会吧不会吧
 Anti32kTotem 双图腾
-AntiChainPop 反啥玩意？
-AntiDeathScreen反死亡屏风？
+AntiChainPop 抗快速连锁（？
+AntiDeathScreen 禁止死亡界面（类似水影的自动重生
 AntiFriendhit 不打队友
 Aura 杀妈光环 可以边吃苹果边打
 AutoOffhandGap自动副手苹果
-AutoLog ezzzzz log
+AutoLog 自动写log
 AutoMend 汽车修理？ 应该是扔自动经验瓶修装备
 AutoReplenish 自动补充
 AutoTotem 自动图腾
@@ -149,14 +149,14 @@ SuperTotem 超级图腾
 SuperTotem2 超级图腾2
 Surround 黑曜石环
 TotemPopCounter 图腾爆提示
-VisualRange 目视范围？
+VisualRange 可视化范围调整
 
 Chat 聊天类
 Annoyer 刷屏 告诉人家你在干啥
-AntiSpam 拒绝生成？
+AntiSpam 反刷屏
 AutoGG 自动GG
 AutoReply 自动回放
-BetterSuffix 更好的后缀？
+BetterSuffix 更好的后缀（就是你聊天时附带的后缀会更好看
 ChatEncryption 聊天加密
 ChatFilter 聊天过滤
 ChatTimestamp 显示聊天时间
@@ -174,4 +174,3 @@ now we using UTF-8 to encode this file
 弄完了
 上一版：Wurst旧版翻译
 作者：ztyX_Y
-QQ：124390919
