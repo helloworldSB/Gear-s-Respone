@@ -1,177 +1,177 @@
-°æ±¾£ºHyperLethal Noblesix 1.1.0 pre-6 ÆäËû°æ±¾Ó¦¸ÃÒ²°Ë¾Å²»ÀëÊ®
+ç‰ˆæœ¬ï¼šHyperLethal Noblesix 1.1.0 pre-6 å…¶ä»–ç‰ˆæœ¬åº”è¯¥ä¹Ÿå…«ä¹ä¸ç¦»å
 
-PlayerÀà Íæ¼ÒÀà
-AntiForceLook É¶ÍæÒâ²»ÖªµÀ ¾Ü¾øÁ¦¿´£¿
-AutoArmour ×Ô¶¯´©¿ø¼×
-AutoEat×Ô¶¯³Ô¶«Î÷
-BlinkË²ÒÆ ´òË®¾§Ê±ÓĞÓÃ
-EndTeleport ½áÊøTP£¿Ã»¿´Ã÷°×
-EntityTools ÊµÌå¹¤¾ß£¿
-FastBreak ¿ìËÙÆÆ»µ ÓÃ×êÊ¯¹¤¾ßµÄÊ±ºòÓĞÃ÷ÏÔµÄÇø±ğ
-Fastplace ¿ìËÙ·ÅÖÃ£¨ÓÒ¼üÁ¬µãÆ÷£©
-Freecam Áé»ê³öÇÏ
-HoleBlinkË²ÒÆµ½ºÚê×Ê¯¶´Àï
-LagNotifier ÑÓ³ÙÍ¨Öª ÓĞµãÏñWWEµÄ server lag XXX second
-LiquidInteractË®ÉÏ·Å·½¿é
-NoBreakAnimation ÎŞ¼ä¶Ï¶¯»­£¿
-NoentityTrace ²»»á¹¥»÷µ½ÊµÌå
-Nofall ÎŞË¤ÂäÉËº¦
-Noswing ÎŞÆÆ»µ¶¯»­£¨¾ÍÊÇÆÆ»µ·½¿éµÄÊ±ºòÊÖ²»ÊÇ»á¶¯Âğ£¬¿ªÁËÕâ¸öÔÚ±ğÈËÑÛÀï¾Í²»»á¶¯
-PacketCancel Çå³ı·¢°ü Ã»Ã÷°×
-PitchLock ÊÓ½ÇËø¶¨
-PortalGodMode ´«ËÍÃÅÎŞµĞ ÒÆ¶¯Ö»ÄÜ¿¿×ÏËÌ¹û»òÕäÖé
-Scaffold ×Ô¶¯´îÂ·
-Timer ±äËÙ³İÂÖ
-TPSSync TPSÍ¬²½£¿
-XCarry ¾ÍÊÇÄãµÄ±³°üµÄËÄ¸ñºÏ³ÉÀ¸Àï¿ÉÒÔ´æ·Å¶«Î÷£¬±ğ¸úXray¸ã»ìÁË
-YawLock ÊÓ½ÇËø¶¨ ¸úPitchLock²î²»¶à
+Playerç±» ç©å®¶ç±»
+AntiForceLook å•¥ç©æ„ä¸çŸ¥é“ æ‹’ç»åŠ›çœ‹ï¼Ÿ
+AutoArmour è‡ªåŠ¨ç©¿ç›”ç”²
+AutoEatè‡ªåŠ¨åƒä¸œè¥¿
+Blinkç¬ç§» æ‰“æ°´æ™¶æ—¶æœ‰ç”¨
+EndTeleport ç»“æŸTPï¼Ÿæ²¡çœ‹æ˜ç™½
+EntityTools å®ä½“å·¥å…·ï¼Ÿ
+FastBreak å¿«é€Ÿç ´å ç”¨é’»çŸ³å·¥å…·çš„æ—¶å€™æœ‰æ˜æ˜¾çš„åŒºåˆ«
+Fastplace å¿«é€Ÿæ”¾ç½®ï¼ˆå³é”®è¿ç‚¹å™¨ï¼‰
+Freecam çµé­‚å‡ºçª
+HoleBlinkç¬ç§»åˆ°é»‘æ›œçŸ³æ´é‡Œ
+LagNotifier å»¶è¿Ÿé€šçŸ¥ æœ‰ç‚¹åƒWWEçš„ server lag XXX second
+LiquidInteractæ°´ä¸Šæ”¾æ–¹å—
+NoBreakAnimation æ— é—´æ–­åŠ¨ç”»ï¼Ÿ
+NoentityTrace ä¸ä¼šæ”»å‡»åˆ°å®ä½“
+Nofall æ— æ‘”è½ä¼¤å®³
+Noswing æ— ç ´ååŠ¨ç”»ï¼ˆå°±æ˜¯ç ´åæ–¹å—çš„æ—¶å€™æ‰‹ä¸æ˜¯ä¼šåŠ¨å—ï¼Œå¼€äº†è¿™ä¸ªåœ¨åˆ«äººçœ¼é‡Œå°±ä¸ä¼šåŠ¨
+PacketCancel æ¸…é™¤å‘åŒ… æ²¡æ˜ç™½
+PitchLock è§†è§’é”å®š
+PortalGodMode ä¼ é€é—¨æ— æ•Œ ç§»åŠ¨åªèƒ½é ç´«é¢‚æœæˆ–çç 
+Scaffold è‡ªåŠ¨æ­è·¯
+Timer å˜é€Ÿé½¿è½®
+TPSSync TPSåŒæ­¥ï¼Ÿ
+XCarry å°±æ˜¯ä½ çš„èƒŒåŒ…çš„å››æ ¼åˆæˆæ é‡Œå¯ä»¥å­˜æ”¾ä¸œè¥¿ï¼Œåˆ«è·ŸXrayææ··äº†
+YawLock è§†è§’é”å®š è·ŸPitchLockå·®ä¸å¤š
 
-GUIÀà
-CombatInfo Õ½¶·ĞÅÏ¢
-CustomRender ²»ÖªµÀÉ¶ÓÃ
-SpartanHUD ²»ÖªµÀÉ¶ÓÃ
-InfoOverlay ²»ÖªµÀÉ¶ÓÃ
-InventoryViewer ±³°üÏÔÊ¾
-Theme ²»ÖªµÀÉ¶ÓÃ
-Watermark Ë®Ó¡£¨¾ÍÊÇ×óÉÏ½ÇµÄÄÇ¸öÍæÒâ£©
+GUIç±»
+CombatInfo æˆ˜æ–—ä¿¡æ¯
+CustomRender ä¸çŸ¥é“å•¥ç”¨
+SpartanHUD ä¸çŸ¥é“å•¥ç”¨
+InfoOverlay ä¸çŸ¥é“å•¥ç”¨
+InventoryViewer èƒŒåŒ…æ˜¾ç¤º
+Theme ä¸çŸ¥é“å•¥ç”¨
+Watermark æ°´å°ï¼ˆå°±æ˜¯å·¦ä¸Šè§’çš„é‚£ä¸ªç©æ„ï¼‰
 
-Render äÖÈ¾Àà
-AntiFog Çå³ıÎí
-AntiWeather È¡ÏûÌìÆø
-ArmourHUD ¿ø¼×ÏÔÊ¾ÔÚ¾Å¸ñÎïÆ·À¸ÉÏ
-ArmourHide ¼×Æ¤£¿
-BedESP ´²Í¸ÊÓ
-BlockHighlight Ö¸×ÅµÄ·½¿é¸ßÁÁ
-BoxESP ºĞ×ÓÍ¸ÊÓ
-FullBright Ò¹ÊÓ
-Chams µ¥Í¸ÊÓ£¬°ÑÈËÎïÊµÌåÏÔÊ¾ÔÚ×îÉÏ²ã
-ChunkFinder Ñ°ÕÒĞÂÇø¿ì
-CleanGUI Çå³ıgui£¿
-ESP Í¸ÊÓ ²»¶à½âÊÍ
-ExtraTab ¶îÍâ±êÇ©£¿
-EyeFiner µĞÈËÊÓ½ÇÏÔÊ¾
-HoleESP ºÚê×Ê¯¿ÓÍ¸ÊÓ
-InvisibleBlockESP ¿´²»¼û·½¿éÍ¸ÊÓ£¿£¿É¶ÍæÒâ
-MobOwner ¹ÖÎïÉ¶É¶µÄ
-NameTags Ãû×Ö±êÇ© ²»¶à½âÊÍ
-NoHurtCamÊÜÉË´°¿Ú²»¶¶¶¯
-NoRender ¿ÉÒÔ¹ØµôÒ»Ğ©optifineÀï¹Ø²»µôµÄ¶«Î÷
-RusherNameTags ¿ªÁËÎÒ¾Í±À
-Search ·½¿éËÑË÷
-ShulkerPreview Ç±Ó°ºĞÉ¶É¶µÄ Ã»ÓÃ¹ı
-StorageESP Ç¿×³Í¸ÊÓ£¿
-TabFriends TabÏÔÊ¾ºÃÓÑ
-Tracers °ÑÄãµÄÖ¸ÕëºÍµĞÈËÓÃÒ»ÌõÏßÁ¬ÉÏ  ÔÂÀÏÇ£ºìÏß£¨´óÎí
-Trajectories Í¶ÉäÎï¹ì¼£
-Xray X¹âÍ¸ÊÓ
-Zoom ÀàËÆoptifineµÄC¼ü·Å´ó
+Render æ¸²æŸ“ç±»
+AntiFog æ¸…é™¤é›¾
+AntiWeather å–æ¶ˆå¤©æ°”
+ArmourHUD ç›”ç”²æ˜¾ç¤ºåœ¨ä¹æ ¼ç‰©å“æ ä¸Š
+ArmourHide ç”²çš®ï¼Ÿ
+BedESP åºŠé€è§†
+BlockHighlight æŒ‡ç€çš„æ–¹å—é«˜äº®
+BoxESP ç›’å­é€è§†
+FullBright å¤œè§†
+Chams å•é€è§†ï¼ŒæŠŠäººç‰©å®ä½“æ˜¾ç¤ºåœ¨æœ€ä¸Šå±‚
+ChunkFinder å¯»æ‰¾æ–°åŒºå¿«
+CleanGUI æ¸…é™¤guiï¼Ÿ
+ESP é€è§† ä¸å¤šè§£é‡Š
+ExtraTab é¢å¤–æ ‡ç­¾ï¼Ÿ
+EyeFiner æ•Œäººè§†è§’æ˜¾ç¤º
+HoleESP é»‘æ›œçŸ³å‘é€è§†
+InvisibleBlockESP çœ‹ä¸è§æ–¹å—é€è§†ï¼Ÿï¼Ÿå•¥ç©æ„
+MobOwner æ€ªç‰©å•¥å•¥çš„
+NameTags åå­—æ ‡ç­¾ ä¸å¤šè§£é‡Š
+NoHurtCamå—ä¼¤çª—å£ä¸æŠ–åŠ¨
+NoRender å¯ä»¥å…³æ‰ä¸€äº›optifineé‡Œå…³ä¸æ‰çš„ä¸œè¥¿
+RusherNameTags å¼€äº†æˆ‘å°±å´©
+Search æ–¹å—æœç´¢
+ShulkerPreview æ½œå½±ç›’å•¥å•¥çš„ æ²¡ç”¨è¿‡
+StorageESP å¼ºå£®é€è§†ï¼Ÿ
+TabFriends Tabæ˜¾ç¤ºå¥½å‹
+Tracers æŠŠä½ çš„æŒ‡é’ˆå’Œæ•Œäººç”¨ä¸€æ¡çº¿è¿ä¸Š  æœˆè€ç‰µçº¢çº¿ï¼ˆå¤§é›¾
+Trajectories æŠ•å°„ç‰©è½¨è¿¹
+Xray Xå…‰é€è§†
+Zoom ç±»ä¼¼optifineçš„Cé”®æ”¾å¤§
 
-Movement ÒÆ¶¯Àà
-AirJump ¿ÕÆøÌø ÀàËÆÁ¬Ìø
-AntiHunger ¾Ü¾ø¼¢¶ö ´ó²¿·Ö·şÎñÆ÷Ã»ÓÃ
-AntiLevitation ·´Ğü¸¡£¿
-AutoJump ×Ô¶¯ÌøÔ¾
-AutoWalk ¹Ò»ú×Ô¶¯×ßÂ·
-ElytraBot ÇÊ³á»úÆ÷ÈË£¿
-ElytraFlight ÇÊ³á·ÉĞĞ
-Elytra+ ÇÊ³áÆ½·É
-ElytraReplace ×Ô¶¯´©ÇÊ³á
-EntitySpeed ÊµÌå¼ÓËÙ
-Fastfall ¿ìËÙ½µÂä
-Flight ·É
-GMfly ·É
-Glide »¹ÊÇ·É
-GuiMove ±³°üĞĞ×ß
-IceSpeed ±ùÉÏ¼ÓËÙ
-Jesus Çá¹¦Ë®ÉÏÆ¯£¨Îí
-NoSlowDown ²»¼õËÙ
-NobleFlight ÓÖÊÇ·É
-PacketFly Êı¾İ°ü·É ×ÔÉ±·É ÔÚÒ»Ğ©·şÎñÆ÷»áÌáÊ¾·¢°ü¹ı¿ì
-SafeWalk °²È«ĞĞ×ß
-SeppukuFly Seppuku·É£¨±ğÎÊSeppukuÊÇÉ¶£¬ÊÇÒÔÇ°ÄÜtpµÄ¹Ò£©
-Sprint Ç¿ÖÆ¼²ÅÜ
-Step ×Ô¶¯ÉÏÌ¨½×
-TimerSpeed ²î²»¶àÊÇ±äËÙ³İÂÖ
-Velocity ·´»÷ÍË
+Movement ç§»åŠ¨ç±»
+AirJump ç©ºæ°”è·³ ç±»ä¼¼è¿è·³
+AntiHunger æ‹’ç»é¥¥é¥¿ å¤§éƒ¨åˆ†æœåŠ¡å™¨æ²¡ç”¨
+AntiLevitation åæ‚¬æµ®ï¼Ÿ
+AutoJump è‡ªåŠ¨è·³è·ƒ
+AutoWalk æŒ‚æœºè‡ªåŠ¨èµ°è·¯
+ElytraBot é˜ç¿…æœºå™¨äººï¼Ÿ
+ElytraFlight é˜ç¿…é£è¡Œ
+Elytra+ é˜ç¿…å¹³é£
+ElytraReplace è‡ªåŠ¨ç©¿é˜ç¿…
+EntitySpeed å®ä½“åŠ é€Ÿ
+Fastfall å¿«é€Ÿé™è½
+Flight é£
+GMfly é£
+Glide è¿˜æ˜¯é£
+GuiMove èƒŒåŒ…è¡Œèµ°
+IceSpeed å†°ä¸ŠåŠ é€Ÿ
+Jesus è½»åŠŸæ°´ä¸Šæ¼‚ï¼ˆé›¾
+NoSlowDown ä¸å‡é€Ÿ
+NobleFlight åˆæ˜¯é£
+PacketFly æ•°æ®åŒ…é£ è‡ªæ€é£ åœ¨ä¸€äº›æœåŠ¡å™¨ä¼šæç¤ºå‘åŒ…è¿‡å¿«
+SafeWalk å®‰å…¨è¡Œèµ°
+SeppukuFly Seppukué£ï¼ˆåˆ«é—®Seppukuæ˜¯å•¥ï¼Œæ˜¯ä»¥å‰èƒ½tpçš„æŒ‚ï¼‰
+Sprint å¼ºåˆ¶ç–¾è·‘
+Step è‡ªåŠ¨ä¸Šå°é˜¶
+TimerSpeed å·®ä¸å¤šæ˜¯å˜é€Ÿé½¿è½®
+Velocity åå‡»é€€
 
-Extension ÍØÕ¹Àà
-HyperLethalAura Lethal×Ô¶¯Ë®¾§ ½¨ÒéºÃºÃµ÷ µ÷ºÃÁËÔôjbÇ¿
+Extension æ‹“å±•ç±»
+HyperLethalAura Lethalè‡ªåŠ¨æ°´æ™¶ å»ºè®®å¥½å¥½è°ƒ è°ƒå¥½äº†è´¼jbå¼º
 
-Misc ÔÓÏî
-AntiAFK ·ÀÌß
-AutoFish ×Ô¶¯³ÔÓã£¨×Ô¶¯µöÓã£¿
-AutoReconnect ×Ô¶¯ÖØÁ¬
-AutoSpawner ×Ô¶¯ÖØÉú
-AutoTool ×Ô¶¯ÇĞ»»¶ÔÓ¦µÄ¹¤¾ß
-BeaconSelector ĞÅ±êÑ¡ÔñÆ÷£¿
-BlockData ·½¿éÊı¾İ£¨£¿
-BookCrash ×Ô¶¯Ğ´Êé£¿Ã»ÓÃ¹ı
-BossStack bossÑªÌõ
-CameraClip ÊÓ½Ç²»»á±»·½¿éÕÚµ²
-ColourSign ²Ê±ê£¿
-ConsoleSpam À¬»øÓÊ¼ş·¢°ü£¿
-DiscordSettings discordµÇÂ¼£¿
-FakeGamemode ÖÆÔì´´Ôì
-FakePlayer Ôì¸öÈË£¨Îí
-FakeVanillaClient ÖÆ×÷Ïã²İ¶Ë£¿
-ModClickFriends ÖĞ¼ü¼ÓºÃÓÑ
-NosoundLag ÎŞÉùÑÓ³Ù£¿
-PathFind ÕÒĞÂÇø¿ì£¿
-RunConfig ÅÜÅäÖÃÎÄ¼ş£¨£¿
-SkinFlicker²»ÏÔÊ¾Ë«²ãÆ¤·ô
-StashFinder »ùµØÑ°ÕÒÆ÷ ²»½âÊÍ
-TelePort TP ÀàËÆSeppukuµÄTP
+Misc æ‚é¡¹
+AntiAFK é˜²è¸¢
+AutoFish è‡ªåŠ¨åƒé±¼ï¼ˆè‡ªåŠ¨é’“é±¼ï¼Ÿ
+AutoReconnect è‡ªåŠ¨é‡è¿
+AutoSpawner è‡ªåŠ¨é‡ç”Ÿ
+AutoTool è‡ªåŠ¨åˆ‡æ¢å¯¹åº”çš„å·¥å…·
+BeaconSelector ä¿¡æ ‡é€‰æ‹©å™¨ï¼Ÿ
+BlockData æ–¹å—æ•°æ®ï¼ˆï¼Ÿ
+BookCrash è‡ªåŠ¨å†™ä¹¦ï¼Ÿæ²¡ç”¨è¿‡
+BossStack bossè¡€æ¡
+CameraClip è§†è§’ä¸ä¼šè¢«æ–¹å—é®æŒ¡
+ColourSign å½©æ ‡ï¼Ÿ
+ConsoleSpam åƒåœ¾é‚®ä»¶å‘åŒ…ï¼Ÿ
+DiscordSettings discordç™»å½•ï¼Ÿ
+FakeGamemode åˆ¶é€ åˆ›é€ 
+FakePlayer é€ ä¸ªäººï¼ˆé›¾
+FakeVanillaClient åˆ¶ä½œé¦™è‰ç«¯ï¼Ÿ
+ModClickFriends ä¸­é”®åŠ å¥½å‹
+NosoundLag æ— å£°å»¶è¿Ÿï¼Ÿ
+PathFind æ‰¾æ–°åŒºå¿«ï¼Ÿ
+RunConfig è·‘é…ç½®æ–‡ä»¶ï¼ˆï¼Ÿ
+SkinFlickerä¸æ˜¾ç¤ºåŒå±‚çš®è‚¤
+StashFinder åŸºåœ°å¯»æ‰¾å™¨ ä¸è§£é‡Š
+TelePort TP ç±»ä¼¼Seppukuçš„TP
 
-Combat Õ½¶·Àà
-AimBot ²»»á»¹ÓĞÈËÔÚĞ¡ÓÎÏ··şÎñÆ÷¿ª¼Í°É ²»»á°É²»»á°É
-Anti32kTotem Ë«Í¼ÌÚ
-AntiChainPop ·´É¶ÍæÒâ£¿
-AntiDeathScreen·´ËÀÍöÆÁ·ç£¿
-AntiFriendhit ²»´ò¶ÓÓÑ
-Aura É±Âè¹â»· ¿ÉÒÔ±ß³ÔÆ»¹û±ß´ò
-AutoOffhandGap×Ô¶¯¸±ÊÖÆ»¹û
+Combat æˆ˜æ–—ç±»
+AimBot ä¸ä¼šè¿˜æœ‰äººåœ¨å°æ¸¸æˆæœåŠ¡å™¨å¼€çºªå§ ä¸ä¼šå§ä¸ä¼šå§
+Anti32kTotem åŒå›¾è…¾
+AntiChainPop åå•¥ç©æ„ï¼Ÿ
+AntiDeathScreenåæ­»äº¡å±é£ï¼Ÿ
+AntiFriendhit ä¸æ‰“é˜Ÿå‹
+Aura æ€å¦ˆå…‰ç¯ å¯ä»¥è¾¹åƒè‹¹æœè¾¹æ‰“
+AutoOffhandGapè‡ªåŠ¨å‰¯æ‰‹è‹¹æœ
 AutoLog ezzzzz log
-AutoMend Æû³µĞŞÀí£¿ Ó¦¸ÃÊÇÈÓ×Ô¶¯¾­ÑéÆ¿ĞŞ×°±¸
-AutoReplenish ×Ô¶¯²¹³ä
-AutoTotem ×Ô¶¯Í¼ÌÚ
-AutoTrap ×Ô¶¯ÏİÚå
-AutoWeb ×Ô¶¯Ö©ÖëÍø²øÈË
-BreakWarning ÍÚ¾ò¾¯¸æ ¾ÍÊÇ±ğÈËÍÚÄã·½¿éµÄÊ±ºò¸æËßÄã
-Criticals µ¶µ¶±©»÷
-EasyCrystalAura EZË®¾§
-FastBow ¿ì¹­
-FasuUse ¿ìËÙÊ¹ÓÃ
-HoleFiller Ìî¿Ó
-KamiCA KamiË®¾§¹â»·
-OffhandCrystal ¸±ÊÖË®¾§
-OffhandGap ¸±ÊÖÆ»¹û
-SuperTotem ³¬¼¶Í¼ÌÚ
-SuperTotem2 ³¬¼¶Í¼ÌÚ2
-Surround ºÚê×Ê¯»·
-TotemPopCounter Í¼ÌÚ±¬ÌáÊ¾
-VisualRange Ä¿ÊÓ·¶Î§£¿
+AutoMend æ±½è½¦ä¿®ç†ï¼Ÿ åº”è¯¥æ˜¯æ‰”è‡ªåŠ¨ç»éªŒç“¶ä¿®è£…å¤‡
+AutoReplenish è‡ªåŠ¨è¡¥å……
+AutoTotem è‡ªåŠ¨å›¾è…¾
+AutoTrap è‡ªåŠ¨é™·é˜±
+AutoWeb è‡ªåŠ¨èœ˜è››ç½‘ç¼ äºº
+BreakWarning æŒ–æ˜è­¦å‘Š å°±æ˜¯åˆ«äººæŒ–ä½ æ–¹å—çš„æ—¶å€™å‘Šè¯‰ä½ 
+Criticals åˆ€åˆ€æš´å‡»
+EasyCrystalAura EZæ°´æ™¶
+FastBow å¿«å¼“
+FasuUse å¿«é€Ÿä½¿ç”¨
+HoleFiller å¡«å‘
+KamiCA Kamiæ°´æ™¶å…‰ç¯
+OffhandCrystal å‰¯æ‰‹æ°´æ™¶
+OffhandGap å‰¯æ‰‹è‹¹æœ
+SuperTotem è¶…çº§å›¾è…¾
+SuperTotem2 è¶…çº§å›¾è…¾2
+Surround é»‘æ›œçŸ³ç¯
+TotemPopCounter å›¾è…¾çˆ†æç¤º
+VisualRange ç›®è§†èŒƒå›´ï¼Ÿ
 
-Chat ÁÄÌìÀà
-Annoyer Ë¢ÆÁ ¸æËßÈË¼ÒÄãÔÚ¸ÉÉ¶
-AntiSpam ¾Ü¾øÉú³É£¿
-AutoGG ×Ô¶¯GG
-AutoReply ×Ô¶¯»Ø·Å
-BetterSuffix ¸üºÃµÄºó×º£¿
-ChatEncryption ÁÄÌì¼ÓÃÜ
-ChatFilter ÁÄÌì¹ıÂË
-ChatTimestamp ÏÔÊ¾ÁÄÌìÊ±¼ä
-CustomChatºó×º
-DiscordNotifs ²»ÖªµÀÉ¶ÒâË¼·´ÕıÃ»ÓĞÓÃ¾ÍÍêÁË
-FancyChat »¨Ê½ÁÄÌì
-FormatChat ¸ñÊ½ÁÄÌì
-NobleSuffix nobleºó×º
-PortalChat ´«ËÍÃÅÁÄÌì Ó¦¸Ã¾ÍÊÇ·À¿¨µØÓüÃÅ
-Spammer Ë¢ÆÁ
+Chat èŠå¤©ç±»
+Annoyer åˆ·å± å‘Šè¯‰äººå®¶ä½ åœ¨å¹²å•¥
+AntiSpam æ‹’ç»ç”Ÿæˆï¼Ÿ
+AutoGG è‡ªåŠ¨GG
+AutoReply è‡ªåŠ¨å›æ”¾
+BetterSuffix æ›´å¥½çš„åç¼€ï¼Ÿ
+ChatEncryption èŠå¤©åŠ å¯†
+ChatFilter èŠå¤©è¿‡æ»¤
+ChatTimestamp æ˜¾ç¤ºèŠå¤©æ—¶é—´
+CustomChatåç¼€
+DiscordNotifs ä¸çŸ¥é“å•¥æ„æ€åæ­£æ²¡æœ‰ç”¨å°±å®Œäº†
+FancyChat èŠ±å¼èŠå¤©
+FormatChat æ ¼å¼èŠå¤©
+NobleSuffix nobleåç¼€
+PortalChat ä¼ é€é—¨èŠå¤© åº”è¯¥å°±æ˜¯é˜²å¡åœ°ç‹±é—¨
+Spammer åˆ·å±
 
+now we using UTF-8 to encode this file
 
-
-Îßºş
-ÅªÍêÁË
-ÉÏÒ»°æ£ºWurst¾É°æ·­Òë
-×÷Õß£ºztyX_Y
-QQ£º124390919
+èŠœæ¹–
+å¼„å®Œäº†
+ä¸Šä¸€ç‰ˆï¼šWurstæ—§ç‰ˆç¿»è¯‘
+ä½œè€…ï¼šztyX_Y
+QQï¼š124390919
